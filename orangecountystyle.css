@@ -5,7 +5,7 @@ background: lime;
 color: chocolate;
 }
 
-h1 { color: black; font-family: Courier New;}
+h1 { color: #003400; font-family: Courier New;}
 h2 { color: #610000; font-family: Courier New;}
 .box { background-color: springgreen;}
 .minibox { background-color: #004200;}
@@ -51,5 +51,6 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
