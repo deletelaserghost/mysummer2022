@@ -1,0 +1,76 @@
+/*
+ comment
+*/
+
+<style type="text/css">
+<!--
+
+address { font-size: small;}
+a {
+background: mediumblue;
+color: white; }
+h1 { color: gold; font-family: Verdana;
+opacity: 0.9;}
+h1:first-letter {
+font-size: 200%;
+}
+h2 { color: pink;}
+ul li em {color: navy;}
+.box { background-color: #333333;}
+.imagebox { background-color: #ede4e4;}
+body {
+
+font-family: Comic Sans MS;
+text-shadow: #000000 4px 3px 3px;
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/61/Universal_archway_2019.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+color: white;
+}
+li {
+
+border: solid thin gold;
+display: block;
+background-color: #733B21;
+margin: 4px;
+height: 30px;
+width: 70%;
+}
+
+
+a:hover { background: darkgreen;}
+a:visited {color: white;}
+a:link {color: white;}
+p::selection { background: orange;}
+.dropbtn {
+background-color: silver;
+color: white;
+padding: 1px;
+font-size: 30px;
+border: solid gold;
+}
+li a {
+  color: white;
+}
+.dropdown {
+position: relative;
+display: inline-block;
+}
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: #253C3C;
+min-width: 8px;
+z-index: 1;
+}
+.dropdown-content a {
+color: lightblue;
+padding: 8px 6px;
+text-decoration: none;
+display: block;
+}
+.dropdown-content a:hover {background-color: #253C3C;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: #253C3C;}
+-->
+</style>

@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Washington DC</title>
+  <link rel="stylesheet" type="text/css"
+      href="dcstyle.css" media="all" />
+      <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAA8P8A+v+ZAPz86wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERAAAAAREREREAAAABEREREQAAAAERERERAAAAAREREREAAAABERERERAAAAEREREREAAAARERERERAAABESIhERERERESIiIiERERESIiIiIhERERIiIiIiERERESIiIiIRERERESIiIhEREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
+    </head>
+    <body>
+    <header>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/homepage">Home</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/washingtondc">Washington DC</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/orangecounty">Orange County</a>
+</button>
+<div class="dropdown-content">
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
+</button>
+<div class="dropdown-content">
+
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/despicablememinionmayhem">Despicable Me Minion Mayhem</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/harrypotterandtheforbiddenjourney">Harry Potter and the Forbidden Journey™
+</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/jurassicworldtheride">Jurassic World – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/revengeofthemummytheride">Revenge of the Mummy – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/theworldfamousstudiotour">The World-Famous Studio Tour</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/transformerstheride3d">TRANSFORMERS™: The Ride-3D</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/waterworld">WaterWorld</a>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/milpitasextensionandmore">Milpitas Extension and More</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/quiz">Quiz</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/marioparty">Mario Party</a>
+  </button>
+</div>
+    <h1>Washington DC</h1>
+  </header>
+  <main>
+    <h2>Summary</h2>
+    <p>I went to Washington DC from June 4 to June 9. June 4 was two days after my last day of ninth grade.
+      I went with people who went to my middle school. Some of them also went to my high school because they were the same age as me. The other students were about a year younger than I was.
+      Each student got a Till card and they could spend it on food or on gift shops. They had to give their cards back on the last day. Unfortunately, I didn't spent all of my money on my card before I gave it away.
+      We also stayed in two hotels and both hotels gave us free breakfast. I shared a room with two other girls.
+      My room and another room have the same chaperone. That's because each chaperone had to look after two rooms.
+      There were five chaperones, one tour director, and one bus driver.
+      After going home from Washington DC, I was at my house for less than 24 hours.</p>
+      <h2>List of Activities I Did in Washington DC (in order):</h2>
+      (I did Breakfast first every day starting June 6)
+      <ul>
+        <li>June 4</li>
+        <ul>
+          <li>Flew to Washington DC</li>
+        </ul>
+        <li>June 5</li>
+        <ul>
+          <li>Lunch and Tour Director gives Till card to each student</li>
+          <li>Smithsonian National Museum of Natural History</li>
+          <li>Smithsonian National Museum of African American History and Culture</li>
+          <li>Dinner</li>
+          <li>Check In First Hotel</li>
+        </ul>
+        <li>June 6</li>
+        <ul>
+          <li>Jamestown Settlement</li>
+          <li>Lunch</li>
+          <li>Colonial Williamsburg</li>
+          <li>Dinner</li>
+          <li>Colonial Williamsburg (again)</li>
+          <li>Go Back to Hotel</li>
+        </ul>
+        <li>June 7</li>
+        <ul>
+          <li>Check Out Hotel</li>
+          <li>American Revolution Museum at Yorktown</li>
+          <li>Lunch</li>
+          <li>Thomas Jefferson Monticello</li>
+          <li>Dinner</li>
+          <li>Check In Second Hotel</li>
+        </ul>
+        <li>June 8</li>
+        <ul>
+          <li>George Washington's Mount Vernon</li>
+          <li>Arlington National Cemetery (we saw a wreath-laying ceremony dedicated to our school and other schools)</li>
+          <li>Lunch</li>
+          <li>National Museum of American History</li>
+          <li>Dinner</li>
+          <li>Washington Monument</li>
+          <li>World War II Memorial</li>
+          <li>Lincoln Memorial (<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/lightning">Lightning Page</a>)</li>
+          <li>Go Back to Hotel (finally)</li>
+        </ul>
+        <li>June 9</li>
+        <ul>
+          <li>Check Out Hotel</li>
+          <li>Capitol Hill Tour (from outside)</li>
+          <li>National Archives</li>
+          <li>Washington DC Highlights</li>
+          <li>Lunch</li>
+          <li>Fly Home</li>
+        </ul>
+      </ul>
+      <h2>Souvenirs</h2>
+      <p>I brought home a puzzle, two cookies, McDonald's Chicken Nuggets, two towels, some Chick-Fil-A salad dressing, and a new purse.</p>
+  <span title="Smithsonian National Museum of African American History and Culture">
+  <img width="512" alt="Smithsonian National Museum of African American History and Culture from Outside (bottoms of three pyramids upside down and stacked on top of each other)"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/National_Museum_of_African_American_History_and_Culture.jpg/512px-National_Museum_of_African_American_History_and_Culture.jpg"></span>
+  <span title="Colonial Williamsburg">
+  <img width="512" alt="Part of Colonial Williamsburg (3205781804)"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Colonial_Williamsburg_%283205781804%29.jpg/512px-Colonial_Williamsburg_%283205781804%29.jpg"></span>
+    <span title="Thomas Jefferson Monticello">
+<img width="512" alt="Thomas Jefferson Monticello from Outside"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thomas_Jefferson%27s_Monticello_%28cropped%29.JPG/512px-Thomas_Jefferson%27s_Monticello_%28cropped%29.JPG"></span>
+<span data-flickr-embed="true"
+title="National Museum of American History"><img src="https://live.staticflickr.com/1769/29579553648_5e3ea448e0_z.jpg"
+width="640" height="262" alt="National Museum of American History from Outside (lots of flags in front)"></span>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<span title="National Archives">
+<img width="512" alt="National Archives Building from Outside"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/US_National_Archives_Building.jpg/512px-US_National_Archives_Building.jpg"></span>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSi-Ea3RfxQp1ZMruUD0gHpWDyMquP6xn2nJyPyvyffj14Q4Gr-xSvIymBNqfBH7764eKAVP6uxZ78g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="908" height="540" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p>Correction from the slides: This was my second trip that I had gone to without my parents.
+The first was science camp in February 2019 when I was in sixth grade.</p>
+<p>By the way, the Europe trip was alright. I think I applied my skills well in that trip. I surprisingly didn't get anything stolen in France and United Kingdom.</p>
+</main>
+<footer>
+  <ol>
+    <li>Sources:</li>
+      <ol>
+        <li><a target="_blank" href="https://commons.wikimedia.org/wiki/File:National_Museum_of_African_American_History_and_Culture.jpg">https://commons.wikimedia.org/wiki/File:National_Museum_of_African_American_History_and_Culture.jpg</a></li>
+        <li><a target="_blank" href="https://commons.wikimedia.org/wiki/File:Colonial_Williamsburg_(3205781804).jpg">https://commons.wikimedia.org/wiki/File:Colonial_Williamsburg_(3205781804).jpg</a></li>
+        <li><a target="_blank" href="https://commons.wikimedia.org/wiki/File:Thomas_Jefferson%27s_Monticello_(cropped).JPG">https://commons.wikimedia.org/wiki/File:Thomas_Jefferson%27s_Monticello_(cropped).JPG</a></li>
+        <li><a target="_blank" href="https://www.flickr.com/photos/nationalmuseumofamericanhistory/29579553648">https://www.flickr.com/photos/nationalmuseumofamericanhistory/29579553648</a></li>
+        <li><a target="_blank" href="https://commons.wikimedia.org/wiki/File:US_National_Archives_Building.jpg">https://commons.wikimedia.org/wiki/File:US_National_Archives_Building.jpg</a></li>
+      </ol>
+    </ol>
+<address class="box">
+Last Updated: October 28, 2025
+<br>Copyright &copy; 2025
+</address>
+</footer>
+</body>
+</html>
+
+
+
+
+

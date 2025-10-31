@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Universal Studios</title>
+<link rel="stylesheet" type="text/css"
+    href="universalstudiosstyle.css" media="all" />
+    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAA8P8A+v+ZAPz86wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERAAAAAREREREAAAABEREREQAAAAERERERAAAAAREREREAAAABERERERAAAAEREREREAAAARERERERAAABESIhERERERESIiIiERERESIiIiIhERERIiIiIiERERESIiIiIRERERESIiIhEREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
+</head>
+<body>
+<header>
+    <div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/homepage">Home</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/washingtondc">Washington DC</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/orangecounty">Orange County</a>
+</button>
+<div class="dropdown-content">
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
+</button>
+<div class="dropdown-content">
+
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/despicablememinionmayhem">Despicable Me Minion Mayhem</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/harrypotterandtheforbiddenjourney">Harry Potter and the Forbidden Journey™
+</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/jurassicworldtheride">Jurassic World – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/revengeofthemummytheride">Revenge of the Mummy – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/theworldfamousstudiotour">The World-Famous Studio Tour</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/transformerstheride3d">TRANSFORMERS™: The Ride-3D</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/waterworld">WaterWorld</a>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/milpitasextensionandmore">Milpitas Extension and More</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/quiz">Quiz</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/marioparty">Mario Party</a>
+  </button>
+</div>
+<h1 class="box">Universal Studios</h1>
+</header>
+<main>
+  <h2 class="box">Summary</h2>
+<p class="box">
+I went to Universal Studios on June 11 with some of my family and friends. My friend's family went in a different car.
+It was supposed to take our family forty minutes to get from our hotel to Universal Studios.
+Instead, it took two hours. That's because we made a stop at a Vietnamese bakery, went the wrong way, and got stuck in traffic.
+All of us stayed at Universal Studios from 11 AM to about 8 PM.
+</p>
+<h2 class="box">I did the following activities at Universal Studios in order:</h2>
+<ul>
+  <li><a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/theworldfamousstudiotour">The World-Famous Studio Tour</a></li>
+  <li>Lunch (ate food from Vietnamese bakery)</li>
+  <li><a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/harrypotterandtheforbiddenjourney">Harry Potter and the Forbidden Journey
+  </a></li>
+  <li><a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/jurassicworldtheride">Jurassic World – The Ride</a></li>
+  <li><a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/revengeofthemummytheride">Revenge of the Mummy – The Ride</a></li>
+  <li>Panda Express for meal between lunch and dinner</li>
+  <li><a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/transformerstheride3d">TRANSFORMERS™: The Ride-3D</a></li>
+  <li><a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/waterworld">WaterWorld</a></li>
+  <li><a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/despicablememinionmayhem">Despicable Me Minion Mayhem</a></li>
+</ul>
+<p class="box">
+  This website will talk about the rides that I went to on June 11, 2022. That is why not all of the rides are reviewed on this website.
+</p>
+  <p>
+    <a target="_blank" href="https://www.universalstudioshollywood.com/web/en/us/">Universal Studios Hollywood</a>
+  </p>
+</main>
+<footer>
+  <ol>
+    <li>Sources:</li>
+      <ol>
+        <li><a target="_blank" href="https://commons.wikimedia.org/wiki/File:Universal_archway_2019.jpg">https://commons.wikimedia.org/wiki/File:Universal_archway_2019.jpg</a> (background image)</li>
+      </ol>
+    </ol>
+<address class="box">
+Last Updated: October 28, 2025
+<br>Copyright &copy; 2025
+</address>
+</footer>
+</body>
+</html>
+
+
+
+
+

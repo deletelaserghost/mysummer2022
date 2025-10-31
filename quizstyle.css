@@ -1,0 +1,60 @@
+<style type="text/css">
+<!--
+a {
+background: lime;
+color: chocolate;
+}
+
+h1 { color: indigo; font-family: Courier New;
+opacity: 0.5;}
+h2 { color: darkblue; font-family: Courier New;}
+.box { background-color: palegreen;}
+a:hover { background: palegreen;}
+a:visited {color: darkred;}
+a:link {color: darkred;}
+.dropbtn {
+background-color: peachpuff;
+color: darkred;
+padding: 1px;
+font-size: 30px;
+border: solid gold;
+}
+body {
+background-color: palegoldenrod;
+color: darkslategray;
+}
+li {
+  list-style: none;
+}
+.dropdown {
+position: relative;
+display: inline-block;
+}
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: lightgreen;
+min-width: 8px;
+z-index: 1;
+}
+.dropdown-content a {
+color: darkred;
+padding: 8px 6px;
+text-decoration: none;
+display: block;
+}
+h1::selection {
+  color: navy;
+}
+legend::selection {
+  color: darkslateblue;
+}
+.dropdown-content a:hover {background-color: gainsboro;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: cornsilk;}
+fieldset {
+  border: none;
+}
+
+-->
+</style>

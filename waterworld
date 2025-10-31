@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+   <title>WaterWorld Review</title>
+<link rel="stylesheet" type="text/css"
+    href="universalstudiosstyle.css" media="all" />
+    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAA8P8A+v+ZAPz86wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERAAAAAREREREAAAABEREREQAAAAERERERAAAAAREREREAAAABERERERAAAAEREREREAAAARERERERAAABESIhERERERESIiIiERERESIiIiIhERERIiIiIiERERESIiIiIRERERESIiIhEREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
+</head>
+<body>
+<header>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/homepage">Home</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/washingtondc">Washington DC</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/orangecounty">Orange County</a>
+</button>
+<div class="dropdown-content">
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
+</button>
+<div class="dropdown-content">
+
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/despicablememinionmayhem">Despicable Me Minion Mayhem</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/harrypotterandtheforbiddenjourney">Harry Potter and the Forbidden Journey™
+</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/jurassicworldtheride">Jurassic World – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/revengeofthemummytheride">Revenge of the Mummy – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/theworldfamousstudiotour">The World-Famous Studio Tour</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/transformerstheride3d">TRANSFORMERS™: The Ride-3D</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/waterworld">WaterWorld</a>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/milpitasextensionandmore">Milpitas Extension and More</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/quiz">Quiz</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/marioparty">Mario Party</a>
+  </button>
+</div>
+
+<h1 class="box">Universal Studios</h1>
+
+<p class="box">I went to Universal Studios Hollywood on June 11. I went with my family and friends.</p>
+</header>
+
+
+<main>
+<h2 class="box">WaterWorld</h2>
+<p>
+<center class="imagebox">
+<span data-flickr-embed="true"
+title="Waterworld set at Universal Studios Hollywood">
+<img src="https://live.staticflickr.com/8735/28758409456_645d8c6b3b_4k.jpg" width="33%" height="33%"
+alt="You Will See a lot of Water and some Obstacles before the Show Starts"></span>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</center>
+</p>
+<p class="box">
+WaterWorld is not for people who hate listening to loud noises. That's because the actors tell their group of audience scream after they scream.
+It's loud because your group of audience all scream at about the same time and it could hurt your ears.
+If you are not sensitive to smoke effects, getting wet, loud noises, or jokes, this show is for you.
+<br>
+Oh, you all want to hear my personal opinion? This hurts my ears because as I've mentioned before, the groups of audience scream because their actors tell them to scream.
+I also don't sit on the green seats because I don't want to get wet. I would also not volunteer to get off the bleachers to be close to an actor because I would get wet if I do that.
+The parts after the intro are better because the actors finally stop forcing their group of audience to scream and start performing WaterWorld.
+They still get some of their audience wet because that part of the audience sits on the green seats.
+</p>
+
+<p>
+
+<a target="_blank" href="https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/waterworld">
+WaterWorld</a>
+
+</p>
+</main>
+
+<footer>
+  <ol>
+    <li>Sources:</li>
+      <ol>
+        <li><a target="_blank" href="https://commons.wikimedia.org/wiki/File:Universal_archway_2019.jpg">https://commons.wikimedia.org/wiki/File:Universal_archway_2019.jpg</a> (background image)</li>
+      </ol>
+      <ol>
+        <li><a target="_blank" href="https://www.flickr.com/photos/ruthanddave/28758409456">https://www.flickr.com/photos/ruthanddave/28758409456</a></li>
+    </ol>
+  </ol>
+<address class="box">
+Last Updated: October 28, 2025
+<br>Copyright &copy; 2025
+</address>
+</footer>
+
+</body>
+
+</html>
+
+

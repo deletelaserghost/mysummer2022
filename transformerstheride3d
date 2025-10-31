@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+   <title>TRANSFORMERS Review
+</title>
+<link rel="stylesheet" type="text/css"
+    href="universalstudiosstyle.css" media="all" />
+    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAA8P8A+v+ZAPz86wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERAAAAAREREREAAAABEREREQAAAAERERERAAAAAREREREAAAABERERERAAAAEREREREAAAARERERERAAABESIhERERERESIiIiERERESIiIiIhERERIiIiIiERERESIiIiIRERERESIiIhEREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
+</head>
+<body>
+<header>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/homepage">Home</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/washingtondc">Washington DC</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/orangecounty">Orange County</a>
+</button>
+<div class="dropdown-content">
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
+</button>
+<div class="dropdown-content">
+
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/despicablememinionmayhem">Despicable Me Minion Mayhem</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/harrypotterandtheforbiddenjourney">Harry Potter and the Forbidden Journey™
+</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/jurassicworldtheride">Jurassic World – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/revengeofthemummytheride">Revenge of the Mummy – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/theworldfamousstudiotour">The World-Famous Studio Tour</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/transformerstheride3d">TRANSFORMERS™: The Ride-3D</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/waterworld">WaterWorld</a>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/milpitasextensionandmore">Milpitas Extension and More</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/quiz">Quiz</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/marioparty">Mario Party</a>
+  </button>
+</div>
+<h1 class="box">Universal Studios</h1>
+
+<p class="box">I went to Universal Studios Hollywood on June 11. I went with my family and friends.</p>
+
+</header>
+
+<main>
+<h2 class="box">TRANSFORMERS™: The Ride-3D</h2>
+<p>
+<center class="imagebox">
+<span title="Entrance of the Ride"
+>
+<img width="512"
+alt="These Visitors are Outside of the Ride's Entrance"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Transformers_The_Ride_3D.jpg/512px-Transformers_The_Ride_3D.jpg">
+</center>
+</span>
+</p>
+<p class="box">
+This Transformers ride almost never fails to amaze me. I really like that you wear glasses for the whole ride because that means that you can see the ride in 3D and 3D rides are some of my favorite rides.
+My toddler friend was able to go on this ride. In fact, it was interesting when he acted like an acrobat when we were in line.
+It's sad that one of my cousins was not able to see the young acrobat and the cool 3D ride because my cousin had not finished his lunch.
+The young monkey did accidentally break line chains which reminded me of when I did the same thing five years ago.
+</p>
+<p>
+
+<a target="_blank" href="https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/transformers-the-ride-3d">TRANSFORMERS™: The Ride-3D
+</a>
+</p>
+</main>
+
+<footer>
+  <ol>
+    <li>Sources:</li>
+      <ol>
+        <li><a target="_blank" href="https://commons.wikimedia.org/wiki/File:Universal_archway_2019.jpg">https://commons.wikimedia.org/wiki/File:Universal_archway_2019.jpg</a> (background image)</li>
+      </ol>
+      <ol>
+        <li><a target="_blank" href="https://commons.wikimedia.org/wiki/File:Transformers_The_Ride_3D.jpg">https://commons.wikimedia.org/wiki/File:Transformers_The_Ride_3D.jpg</a></li>
+    </ol>
+  </ol>
+<address class="box">
+Last Updated: October 28, 2025
+<br>Copyright &copy; 2025
+</address>
+</footer>
+
+</body>
+
+</html>
+
+
+

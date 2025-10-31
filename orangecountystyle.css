@@ -1,0 +1,54 @@
+<style type="text/css">
+<!--
+a {
+background: lime;
+color: chocolate;
+}
+
+h1 { color: #003400; font-family: Courier New;
+opacity: 0.5;}
+h2 { color: #610000; font-family: Courier New;}
+.box { background-color: springgreen;}
+.minibox { background-color: #004200;}
+a:hover { background: lime;}
+a:visited {color: darkred;}
+a:link {color: #7A2100;}
+.dropbtn {
+background-color: #E7DDCB;
+color: white;
+padding: 1px;
+font-size: 30px;
+border: solid gold;
+}
+body {
+background-color: orange;
+color: #322706;
+}
+li {
+  list-style: none;
+}
+li a {
+  color: #322706;
+}
+.dropdown {
+position: relative;
+display: inline-block;
+}
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: maroon;
+min-width: 8px;
+z-index: 1;
+}
+.dropdown-content a {
+color: pink;
+padding: 8px 6px;
+text-decoration: none;
+display: block;
+}
+.dropdown-content a:hover {background-color: #264040;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: cornsilk;}
+-->
+</style>

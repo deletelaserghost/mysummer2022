@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Lightning</title>
+<link rel="stylesheet" type="text/css"
+    href="Washington DC style.css" media="all" />
+    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAA8P8A+v+ZAPz86wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERAAAAAREREREAAAABEREREQAAAAERERERAAAAAREREREAAAABERERERAAAAEREREREAAAARERERERAAABESIhERERERESIiIiERERESIiIiIhERERIiIiIiERERESIiIiIRERERESIiIhEREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/homepage">Home</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/washingtondc">Washington DC</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/orangecounty">Orange County</a>
+</button>
+<div class="dropdown-content">
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
+</button>
+<div class="dropdown-content">
+
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/despicablememinionmayhem">Despicable Me Minion Mayhem</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/harrypotterandtheforbiddenjourney">Harry Potter and the Forbidden Journey™
+</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/jurassicworldtheride">Jurassic World – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/revengeofthemummytheride">Revenge of the Mummy – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/theworldfamousstudiotour">The World-Famous Studio Tour</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/transformerstheride3d">TRANSFORMERS™: The Ride-3D</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/waterworld">WaterWorld</a>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/milpitasextensionandmore">Milpitas Extension and More</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/quiz">Quiz</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/marioparty">Mario Party</a>
+  </button>
+</div>
+
+    <h1>Lightning</h1>
+  </header>
+    <main>
+<iframe src="https://drive.google.com/file/d/1WYOar_UE4JyApei2K0OmvVuhL4Xz3wo8/preview" width="640" height="360"
+allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1DuURmlXJqQTG05ny0y6jYeZGUwbgXfZM/preview" width="640" height="360"
+allow="autoplay"></iframe>
+<p>If you don't like lightning, you should be very careful when you travel to Washington DC. The chaperones took so long to take their students to the bus, so I was really scared for my life.
+  On top of that, they also took a picture of all the students while we were waiting.
+  They took so insanely long with the pictures because I think they took more than one picture.
+  Unfortunately, I don't have these pictures.</p>
+  <p>
+  <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/washingtondc">Washington DC</a>
+</p>
+</main>
+<footer>
+<address class="box">
+Last Updated: October 28, 2025
+<br>Copyright &copy; 2025
+</address>
+</footer>
+</body>
+</html>
+
+
+

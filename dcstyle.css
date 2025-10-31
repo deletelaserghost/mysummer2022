@@ -1,0 +1,58 @@
+<style type="text/css">
+<!--
+
+
+
+h1 {
+  color: springgreen;
+}
+.box { background-color: navajowhite;}
+.imagebox { background-color: #ede4e4;}
+body {
+  background-color: tan;
+  color: darkblue;
+}
+li {
+list-style-type: none;
+display: block;
+border: solid thin gold;
+padding: 4px;
+background-color: bisque;
+margin: 3px;
+width: 65%;
+}
+li a {
+  color: darkblue;
+}
+.dropbtn {
+background-color: ivory;
+color: darkblue;
+padding: 1px;
+font-size: 30px;
+border: solid gold;
+}
+.dropdown {
+position: relative;
+display: inline-block;
+}
+.dropdown a {
+  color: darkblue;
+}
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: linen;
+min-width: 8px;
+z-index: 1;
+}
+.dropdown-content a {
+color: lightslategray;
+padding: 8px 6px;
+text-decoration: none;
+display: block;
+}
+.dropdown-content a:hover {background-color: whitesmoke;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: antiquewhite;
+-->
+</style>

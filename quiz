@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Summer Quiz</title>
+<link rel="stylesheet" type="text/css"
+    href="quizstyle.css" media="all" />
+    <script src="quiz.js" type="text/javascript"></script>
+<link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAA8P8A+v+ZAPz86wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERAAAAAREREREAAAABEREREQAAAAERERERAAAAAREREREAAAABERERERAAAAEREREREAAAARERERERAAABESIhERERERESIiIiERERESIiIiIhERERIiIiIiERERESIiIiIRERERESIiIhEREREREREREREREREREREREREAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" rel="icon" type="image/x-icon" />
+  </head>
+  <body>
+    <div id="main">
+  <div id="header">
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/homepage">Home</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/washingtondc">Washington DC</a>
+</button>
+</div>
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/orangecounty">Orange County</a>
+</button>
+<div class="dropdown-content">
+<div class="dropdown">
+<button class="dropbtn">
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
+</button>
+<div class="dropdown-content">
+
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/despicablememinionmayhem">Despicable Me Minion Mayhem</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/harrypotterandtheforbiddenjourney">Harry Potter and the Forbidden Journey™
+</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/jurassicworldtheride">Jurassic World – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/revengeofthemummytheride">Revenge of the Mummy – The Ride</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/theworldfamousstudiotour">The World-Famous Studio Tour</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/transformerstheride3d">TRANSFORMERS™: The Ride-3D</a>
+<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/waterworld">WaterWorld</a>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/milpitasextensionandmore">Milpitas Extension and More</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/quiz">Quiz</a>
+  </button>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">
+    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/marioparty">Mario Party</a>
+  </button>
+</div>
+  <h1>Summer Quiz</h1>
+</div>
+  <form action="results.html" method="post" onsubmit="return false">
+  <fieldset>
+    <h2>What is my least favorite Universal Studios Hollywood ride?</h2>
+    <label for="minion">
+    <input type="radio" name="leastfavoriteride" value="0" />
+    Despicable Me Minion Mayhem</label><br>
+    <label for="harrypotter">
+      <input type="radio" name="leastfavoriteride" value="10" />
+      Harry Potter and the Forbidden Journey™
+    </label><br>
+    <label for="jurassic">
+    <input type="radio" name="leastfavoriteride" value="0" />
+    Jurassic World – The Ride</label><br>
+    <label for="hippogriff">
+    <input type="radio" name="leastfavoriteride" value="0" />
+    Flight of the Hippogriff™</label>
+    <h2>What was my fear in Washington DC?</h2>
+    <label for="hurricane">
+    <input type="radio" name="dcfear" value="0">
+    Hurricane</label><br>
+    <label for="hotweather">
+    <input type="radio" name="dcfear" value="0">
+    Extremely Hot Weather</label><br>
+    <label for="lightning">
+    <input type="radio" name="dcfear" value="10">
+    Lightning</label><br>
+    <label for="rain">
+    <input type="radio" name="dcfear" value="0">
+    Heavy Rain</label>
+
+    <h2>When was my last day of school?</h2>
+    <label for="june4">
+    <input type="radio" name="lastdayschool" value="0">
+    June 4</label><br>
+    <label for="june10">
+    <input type="radio" name="lastdayschool" value="0">
+    June 10</label><br>
+    <label for="june2">
+    <input type="radio" name="lastdayschool" value="10">
+    June 2</label><br>
+    <label for="june13">
+    <input type="radio" name="lastdayschool" value="0">
+June 13</label>
+    <h2>When did I go to Universal Studios?</h2>
+    <label for="june10again">
+    <input type="radio" name="ushdate" value="0">
+    June 10</label><br>
+    <label for="june11">
+    <input type="radio" name="ushdate" value="10">
+    June 11</label><br>
+    <label for="june12">
+    <input type="radio" name="ushdate" value="0">
+    June 12</label><br>
+    <label for="june13again">
+    <input type="radio" name="ushdate" value="0">
+    June 13</label>
+
+    <h2>Whom did I go to Washington DC with?</h2>
+    <label for="school">
+    <input type="radio" name="dcpeople" value="10">
+    People from my School</label><br>
+    <label for="parents">
+    <input type="radio" name="dcpeople" value="0">
+    Parents</label><br>
+    <label for="cousins">
+    <input type="radio" name="dcpeople" value="0">
+    Cousins</label><br>
+    <label for="stranger">
+    <input type="radio" name="dcpeople" value="0">
+    A Stranger</label>
+
+    <h2>How many hotels did I stay in during Washington DC?</h2>
+    <label for="onehotel">
+    <input type="radio" name="numberofhotels" value="0">
+    1</label><br>
+    <label for="twohotels">
+    <input type="radio" name="numberofhotels" value="10">
+    2</label><br>
+    <label for="threehotels">
+    <input type="radio" name="numberofhotels" value="0">
+    3</label><br>
+    <label for="fourhotels">
+    <input type="radio" name="numberofhotels" value="0">
+    4</label>
+
+    <h2>What was my last activity in Universal Studios?</h2>
+    <label for="panda">
+    <input type="radio" name="lastactivity" value="0">
+    Panda Express</label><br>
+    <label for="transformers">
+    <input type="radio" name="lastactivity" value="0">
+    TRANSFORMERS™: The Ride-3D</label><br>
+    <label for="waterworld">
+    <input type="radio" name="lastactivity" value="0">
+    WaterWorld</label><br>
+    <label for="despicableme">
+    <input type="radio" name="lastactivity" value="10">
+    Despicable Me Minion Mayhem</label>
+
+    <h2>What weekday did I not attend Milpitas Extension?</h2>
+    <label for="tuesday">
+    <input type="radio" name="daynoattend" value="0">
+    Tuesday</label><br>
+    <label for="wednesday">
+    <input type="radio" name="daynoattend" value="0">
+    Wednesday</label><br>
+    <label for="thursday">
+    <input type="radio" name="daynoattend" value="0">
+    Thursday</label><br>
+    <label for="friday">
+    <input type="radio" name="daynoattend" value="10">
+    Friday</label>
+
+    <h2>What did I make this website for?</h2>
+    <label for="dc">
+    <input type="radio" name="websitefor" value="0">
+    Washington DC</label><br>
+    <label for="orangecounty">
+    <input type="radio" name="websitefor" value="0">
+    Orange County</label><br>
+    <label for="milpitasextension">
+    <input type="radio" name="websitefor" value="10">
+    Milpitas Extension</label><br>
+    <label for="harry">
+    <input type="radio" name="websitefor" value="0">
+    Harry Potter</label>
+
+    <h2>Should you buy ice cream from the store that I bought ice cream from in Orange County?</h2>
+    <label for="firstyes">
+    <input type="radio" name="buyicecream" value="0">
+    Yes because you bought Ice Cream from H&auml;agen-Dazs</label><br>
+    <label for="secondyes">
+    <input type="radio" name="buyicecream" value="0">
+    Yes because the store has flavor names</label><br>
+    <label for="firstno">
+    <input type="radio" name="buyicecream" value="0">
+    No because the Ice Cream tastes bad</label><br>
+    <label for="secondno">
+    <input type="radio" name="buyicecream" value="10">
+    No because the store has no flavor names</label>
+    <p><button type="button" onclick="calcGrade()" value="Submit">Finish Quiz</button>
+    </p>
+  </fieldset>
+</form>
+<p>Your grade is: <span id="grade">__</span> out of 100</p>
+<p>Your grade will remain blank if you submit when not all the questions were answered.</p>
+</div>
+<script src="quiz.js"></script>
+One man who worked with me in Milpitas Extension did the finishing touches in the Java code for the quiz.
+<footer>
+<br><address class="box">
+Last Updated: October 28, 2025
+<br>Copyright &copy; 2025
+</address>
+</footer>
+</body>
+</html>
+
+
+
+

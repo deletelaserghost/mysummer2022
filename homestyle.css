@@ -1,0 +1,71 @@
+<style type="text/css">
+<!--
+a {
+background: green;
+color: yellow; }
+
+h1 { color: gold; font-family: Verdana;}
+h1:first-letter {
+font-size: 200%;
+}
+h2 { color: #A2D142;}
+ul li em {color: silver;}
+.box { background-color: #333333;}
+.imagebox { background-color: #ede4e4;}
+body {
+width: 60%
+
+font-family: Comic Sans MS;
+
+background-image: url("https://www.publicdomainpictures.net/pictures/40000/velka/summer-day-1362416318qCN.jpg");
+;
+background-repeat:no-repeat;
+background-size:cover;
+color: gold;
+}
+li {
+list-style-type: none;
+display: block;
+border: solid thin gold;
+padding: 4px;
+background-color: maroon;
+margin: 3px;
+width: 65%;
+}
+li a {
+  color: gold;
+}
+.dropbtn {
+background-color: silver;
+color: white;
+padding: 1px;
+font-size: 30px;
+border: solid gold;
+}
+.dropdown {
+position: relative;
+display: inline-block;
+}
+.dropdown a {
+  color: #000F1F;
+}
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: #A1A1A1;
+min-width: 8px;
+z-index: 1;
+text-shadow: #fffff0 2px 2px 2px;
+}
+.dropdown-content a {
+color: #000F1F;
+padding: 8px 6px;
+text-decoration: none;
+display: block;
+}
+.dropdown-content a:hover {background-color: lime;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: salmon;}
+-->
+</style>
+
