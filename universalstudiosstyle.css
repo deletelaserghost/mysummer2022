@@ -22,8 +22,6 @@ body {
 
 font-family: Comic Sans MS;
 text-shadow: #000000 4px 3px 3px;
-background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/61/Universal_archway_2019.jpg");
-background-repeat:no-repeat;
 background-size:cover;
 color: white;
 }
@@ -74,3 +72,4 @@ display: block;
 .dropdown:hover .dropbtn {background-color: #253C3C;}
 -->
 </style>
+
