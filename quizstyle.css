@@ -5,9 +5,10 @@ background: lime;
 color: chocolate;
 }
 
-h1 { color: indigo; font-family: "Copperplate", fantasy;
+h1 { color: indigo; font-family: Courier New;
 opacity: 0.5;}
-h2 { color: darkblue; font-family: "Copperplate", fantasy;}
+h2 { color: darkblue; font-family: Courier New;}
+.box { background-color: palegreen;}
 a:hover { background: palegreen;}
 a:visited {color: darkred;}
 a:link {color: darkred;}
@@ -21,7 +22,6 @@ border: solid gold;
 body {
 background-color: palegoldenrod;
 color: darkslategray;
-  font-family: "Lucida Console", monospace;
 }
 li {
   list-style: none;
@@ -58,6 +58,3 @@ fieldset {
 
 -->
 </style>
-
-
-
