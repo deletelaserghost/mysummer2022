@@ -24,6 +24,13 @@ width: 65%;
 li a {
   color: darkblue;
 }
+.dropbtn {
+background-color: peachpuff;
+color: darkred;
+padding: 1px;
+font-size: 30px;
+border: solid gold;
+}
 .dropdown {
 position: relative;
 display: inline-block;
@@ -46,4 +53,5 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
