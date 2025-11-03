@@ -35,37 +35,33 @@ width: 65%;
 li a {
   color: gold;
 }
-.dropbtn {
-background-color: silver;
-color: white;
-padding: 1px;
-font-size: 30px;
-border: solid gold;
-}
 .dropdown {
 position: relative;
 display: inline-block;
 }
-.dropdown a {
-  color: #000F1F;
-}
 .dropdown-content {
 display: none;
 position: absolute;
-background-color: #A1A1A1;
+background-color: lightgreen;
 min-width: 8px;
 z-index: 1;
-text-shadow: #fffff0 2px 2px 2px;
 }
 .dropdown-content a {
-color: #000F1F;
+color: darkred;
 padding: 8px 6px;
 text-decoration: none;
 display: block;
 }
-.dropdown-content a:hover {background-color: lime;}
+h1::selection {
+  color: navy;
+}
+legend::selection {
+  color: darkslateblue;
+}
+.dropdown-content a:hover {background-color: gainsboro;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: salmon;}
+.dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
