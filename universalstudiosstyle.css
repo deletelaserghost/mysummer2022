@@ -41,14 +41,11 @@ a:visited {color: white;}
 a:link {color: white;}
 p::selection { background: orange;}
 .dropbtn {
-background-color: silver;
-color: white;
+background-color: peachpuff;
+color: darkred;
 padding: 1px;
 font-size: 30px;
 border: solid gold;
-}
-li a {
-  color: white;
 }
 .dropdown {
 position: relative;
@@ -57,19 +54,20 @@ display: inline-block;
 .dropdown-content {
 display: none;
 position: absolute;
-background-color: #253C3C;
+background-color: lightgreen;
 min-width: 8px;
 z-index: 1;
 }
 .dropdown-content a {
-color: lightblue;
+color: darkred;
 padding: 8px 6px;
 text-decoration: none;
 display: block;
 }
-.dropdown-content a:hover {background-color: #253C3C;}
+.dropdown-content a:hover {background-color: gainsboro;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: #253C3C;}
+.dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
