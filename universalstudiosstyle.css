@@ -3,7 +3,6 @@
 */
 
 <style type="text/css">
-<!--
 
 address { font-size: small;}
 
@@ -19,12 +18,12 @@ ul li em {color: navy;}
 body {
 background-color: mediumblue;
 font-family: Comic Sans MS;
-text-shadow: #000000 4px 3px 3px;
 background-size:cover;
 color: white;
 }
 body a {
  color: white;
+text-shadow: #000000 4px 3px 3px;
 }
 li {
 
@@ -69,8 +68,8 @@ display: block;
 .dropdown-content a:hover {background-color: gainsboro;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: cornsilk;}
--->
 </style>
+
 
 
 
