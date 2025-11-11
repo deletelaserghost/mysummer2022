@@ -45,6 +45,7 @@ border: solid gold;
 .dropdown {
 position: relative;
 display: inline-block;
+color: darkred;
 }
 .dropdown-content {
 display: none;
@@ -70,6 +71,7 @@ legend::selection {
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
