@@ -13,8 +13,6 @@ h1:first-letter {
 font-size: 200%;
 }
 h2 { color: pink;}
-a:visited {color: darkred;}
-a:link {color: darkred;}
 ul li em {color: navy;}
 .box { background-color: #333333;}
 .imagebox { background-color: #ede4e4;}
@@ -49,6 +47,8 @@ border: solid gold;
 .dropdown {
 position: relative;
 display: inline-block;
+color: darkred;
+font-family: Comic Sans MS;
 }
 .dropdown-content {
 display: none;
@@ -56,6 +56,7 @@ position: absolute;
 background-color: lightgreen;
 min-width: 8px;
 z-index: 1;
+font-family: Comic Sans MS;
 }
 .dropdown-content a {
 color: darkred;
@@ -68,6 +69,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
