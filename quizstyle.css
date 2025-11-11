@@ -2,7 +2,7 @@
 <!--
 
 h1 { color: indigo; font-family: Courier New;
-opacity: 0.5;}
+}
 h2 { color: darkblue; font-family: Courier New;}
 .box { background-color: palegreen;}
 a:visited {color: darkred;}
@@ -57,6 +57,7 @@ fieldset {
 
 -->
 </style>
+
 
 
 
