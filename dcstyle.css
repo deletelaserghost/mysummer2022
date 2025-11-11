@@ -12,6 +12,9 @@ body {
   background-color: tan;
   color: darkblue;
 }
+body a {
+color: darkblue;
+}
 li {
 list-style-type: none;
 display: block;
@@ -57,6 +60,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
