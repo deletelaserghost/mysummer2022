@@ -5,7 +5,6 @@ h1 { color: indigo; font-family: Courier New;
 opacity: 0.5;}
 h2 { color: darkblue; font-family: Courier New;}
 .box { background-color: palegreen;}
-a:hover { background: palegreen;}
 a:visited {color: darkred;}
 a:link {color: darkred;}
 .dropbtn {
@@ -25,6 +24,7 @@ li {
 .dropdown {
 position: relative;
 display: inline-block;
+font-family: Comic Sans MS;
 }
 .dropdown-content {
 display: none;
@@ -32,6 +32,7 @@ position: absolute;
 background-color: lightgreen;
 min-width: 8px;
 z-index: 1;
+font-family: Comic Sans MS;
 }
 .dropdown-content a {
 color: darkred;
@@ -54,4 +55,5 @@ fieldset {
 
 -->
 </style>
+
 
