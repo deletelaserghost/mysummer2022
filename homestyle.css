@@ -61,6 +61,7 @@ font-family: Comic Sans MS;
 .dropdown-content a {
 color: darkred;
 text-decoration: none;
+padding: 8px 6px;
 display: block;
 }
 h1::selection {
@@ -74,6 +75,7 @@ legend::selection {
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
