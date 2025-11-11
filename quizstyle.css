@@ -9,7 +9,6 @@ a:visited {color: darkred;}
 a:link {color: darkred;}
 .dropbtn {
 background-color: peachpuff;
-color: darkred;
 padding: 1px;
 font-size: 30px;
 border: solid gold;
@@ -24,8 +23,10 @@ li {
 .dropdown {
 position: relative;
 display: inline-block;
-font-family: Comic Sans MS;
+}
+.dropdown a {
 color: darkred;
+font-family: Comic Sans MS;
 }
 .dropdown-content {
 display: none;
@@ -56,6 +57,7 @@ fieldset {
 
 -->
 </style>
+
 
 
 
