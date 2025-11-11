@@ -47,6 +47,8 @@ border: solid gold;
 .dropdown {
 position: relative;
 display: inline-block;
+}
+.dropdown a {
 color: darkred;
 font-family: Comic Sans MS;
 }
@@ -69,6 +71,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
