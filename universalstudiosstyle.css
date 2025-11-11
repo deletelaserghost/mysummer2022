@@ -6,9 +6,7 @@
 <!--
 
 address { font-size: small;}
-a {
-background: mediumblue;
-color: white; }
+
 h1 { color: gold; font-family: Verdana;
 opacity: 0.9;}
 h1:first-letter {
@@ -19,7 +17,7 @@ ul li em {color: navy;}
 .box { background-color: #333333;}
 .imagebox { background-color: #ede4e4;}
 body {
-
+background-color: mediumblue;
 font-family: Comic Sans MS;
 text-shadow: #000000 4px 3px 3px;
 background-size:cover;
@@ -34,7 +32,6 @@ margin: 4px;
 height: 30px;
 width: 70%;
 }
-
 
 a:hover { background: darkgreen;}
 a:visited {color: white;}
@@ -69,5 +66,6 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
