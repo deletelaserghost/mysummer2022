@@ -13,6 +13,8 @@ h1:first-letter {
 font-size: 200%;
 }
 h2 { color: pink;}
+a:visited {color: darkred;}
+a:link {color: darkred;}
 ul li em {color: navy;}
 .box { background-color: #333333;}
 .imagebox { background-color: #ede4e4;}
@@ -66,6 +68,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
