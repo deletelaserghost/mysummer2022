@@ -25,6 +25,9 @@ text-shadow: #000000 4px 3px 3px;
 background-size:cover;
 color: white;
 }
+body a {
+ color: white;
+}
 li {
 
 border: solid thin gold;
@@ -65,6 +68,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
