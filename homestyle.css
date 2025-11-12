@@ -1,8 +1,8 @@
 <style type="text/css">
 <!--
 a {
-background: green;
-color: yellow; }
+background: lime;
+color: chocolate; }
 
 h1 { color: gold; font-family: Verdana;}
 h1:first-letter {
@@ -75,6 +75,7 @@ legend::selection {
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
