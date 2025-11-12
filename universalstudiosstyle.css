@@ -22,9 +22,10 @@ body {
 background-color: mediumblue;
 font-family: Comic Sans MS;
 background-size:cover;
+color: white;
 }
 body a {
- color: white;
+color: white;
 }
 li {
 
@@ -71,6 +72,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
