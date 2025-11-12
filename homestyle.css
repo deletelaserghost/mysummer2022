@@ -65,16 +65,17 @@ padding: 8px 6px;
 display: block;
 }
 h1::selection {
-  color: navy;
+  color: lightskyblue;
 }
 legend::selection {
-  color: darkslateblue;
+  color: lightskyblue;
 }
 .dropdown-content a:hover {background-color: gainsboro;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
