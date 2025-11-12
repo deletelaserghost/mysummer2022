@@ -3,7 +3,9 @@
 */
 
 <style type="text/css">
-
+a {
+background: lime;
+color: chocolate; }
 address { font-size: small;}
 
 h1 { color: gold; font-family: Verdana;
@@ -68,6 +70,7 @@ display: block;
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 </style>
+
 
 
 
