@@ -42,10 +42,10 @@ text-decoration: none;
 display: block;
 }
 h1::selection {
-  color: navy;
+  color: maroon;
 }
 legend::selection {
-  color: darkslateblue;
+  color: maroon;
 }
 .dropdown-content a:hover {background-color: gainsboro;}
 .dropdown:hover .dropdown-content {display: block;}
@@ -56,6 +56,7 @@ fieldset {
 -->
 
 </style>
+
 
 
 
