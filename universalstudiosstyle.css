@@ -22,7 +22,6 @@ body {
 background-color: mediumblue;
 font-family: Comic Sans MS;
 background-size:cover;
-color: white;
 }
 body a {
  color: white;
@@ -37,7 +36,7 @@ height: 30px;
 width: 70%;
 }
 
-p::selection { background: orange;}
+p::selection { background: #523500;}
 .dropbtn {
 background-color: peachpuff;
 color: darkred;
@@ -72,6 +71,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
