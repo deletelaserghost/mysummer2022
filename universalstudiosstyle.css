@@ -3,6 +3,7 @@
 */
 
 <style type="text/css">
+<!--
 a {
 background: lime;
 color: chocolate; }
@@ -69,7 +70,9 @@ display: block;
 .dropdown-content a:hover {background-color: gainsboro;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: cornsilk;}
+-->
 </style>
+
 
 
 
