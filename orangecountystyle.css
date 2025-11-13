@@ -14,6 +14,9 @@ background-color: orange;
 font-family: lucida sans;
 color: #322706;
 }
+body a {
+color: #322706;
+}
 li {
   list-style: none;
 }
@@ -52,6 +55,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
