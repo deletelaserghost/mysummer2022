@@ -4,13 +4,14 @@ a {
 background: lime;
 color: chocolate; }
 h1 {
-  color: springgreen;
+color: #002400;
+font-family: Courier New;
 }
 .box { background-color: navajowhite;}
-.imagebox { background-color: #ede4e4;}
 body {
   background-color: tan;
   color: darkblue;
+  font-family: lucida sans;
 }
 body a {
 color: darkblue;
@@ -60,6 +61,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
