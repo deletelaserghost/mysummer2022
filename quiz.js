@@ -1,6 +1,7 @@
 $("#prospects_form").submit(function(e) {
   e.preventDefault();
 });
+let value = 0;
 function calcGrade() {
   leastfavoriteride = parseInt(document.querySelector('input[name = "leastfavoriteride"]:checked').value);
   dcfear = parseInt(document.querySelector('input[name = "dcfear"]:checked').value);
@@ -16,3 +17,4 @@ function calcGrade() {
   document.getElementById("grade").innerHTML = result;
   return;
 }
+
