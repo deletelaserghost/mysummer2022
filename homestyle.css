@@ -13,7 +13,7 @@ ul li em {color: silver;}
 .box { background-color: #333333;}
 .imagebox { background-color: #ede4e4;}
 body {
-width: 60%
+width: 60%;
 
 font-family: Lucida Sans;
 background-repeat:no-repeat;
@@ -60,6 +60,7 @@ legend::selection {
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
