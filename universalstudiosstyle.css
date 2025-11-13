@@ -14,7 +14,7 @@ opacity: 0.9;}
 h1:first-letter {
 font-size: 200%;
 }
-h2 { color: pink;}
+h2 { color: pink; font-family: Courier New;}
 ul li em {color: navy;}
 .box { background-color: #333333;}
 .imagebox { background-color: #ede4e4;}
@@ -36,7 +36,9 @@ margin: 4px;
 height: 30px;
 width: 70%;
 }
-
+li a {
+color: white;
+}
 p::selection { background: #523500;}
 .dropbtn {
 background-color: peachpuff;
@@ -72,6 +74,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
