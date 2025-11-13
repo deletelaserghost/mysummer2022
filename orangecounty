@@ -25,24 +25,10 @@ content="This website is made by a student from Milpitas Extension. It is about 
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/orangecounty">Orange County</a>
 </button>
 <div class="dropdown-content">
-<div class="dropdown">
-<button class="dropbtn">
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
-</button>
-<div class="dropdown-content">
+</div>
+</div>
 
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/despicablememinionmayhem">Despicable Me Minion Mayhem</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/harrypotterandtheforbiddenjourney">Harry Potter and the Forbidden Journey™
-</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/jurassicworldtheride">Jurassic World – The Ride</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/revengeofthemummytheride">Revenge of the Mummy – The Ride</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/theworldfamousstudiotour">The World-Famous Studio Tour</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/transformerstheride3d">TRANSFORMERS™: The Ride-3D</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/waterworld">WaterWorld</a>
-</div>
-</div>
-</div>
-</div>
 <div class="dropdown">
   <button class="dropbtn">
     <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/milpitasextensionandmore">Milpitas Extension and More</a>
@@ -78,7 +64,7 @@ We all went to a lot of places at Orange County and unfortunately stayed up late
   <li>June 11</li>
   <ul>
     <li>Order from Vietnamese bakery</li>
-    <li><a class="box" href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a> with our friend's family</li>
+    <li><a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a> with our friend's family</li>
     <li>Dinner at Vietnamese restaurant (we stayed up past midnight)</li>
   </ul>
   <li>June 12</li>
@@ -99,46 +85,16 @@ We all went to a lot of places at Orange County and unfortunately stayed up late
     </ul>
   </ul>
 Every morning from June 11 to June 13, I ate breakfast in my hotel room.
-  <p>
-    <span title="Orange County on a Map"
-    >
-    <img width="30%" alt="Orange County California Incorporated and Unincorporated areas Costa Mesa Highlighted"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Orange_County_California_Incorporated_and_Unincorporated_areas_Costa_Mesa_Highlighted.svg/512px-Orange_County_California_Incorporated_and_Unincorporated_areas_Costa_Mesa_Highlighted.svg.png">
-  </span>
-<span title="Part of Downtown Disney">
-
-<img width="30%" alt="There is a Jamba Juice at Downtown Disney"
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Downtown_Disney_2014_Jamba_Juice_Sephora.JPG/512px-Downtown_Disney_2014_Jamba_Juice_Sephora.JPG">
-</span>
-<span data-flickr-embed="true"
-title="Hollywood Walk of Fame">
-<img src="https://live.staticflickr.com/5633/20967886353_9a046712b0_z.jpg" width="30%" height="30%"
-alt="Stars - containing Names of Famous People - are on Streets"></span>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</p>
 </main>
 <footer>
-  <ol>
-    <li>Sources:</li>
-    <ol>
-  <li>
-    <a target="_blank" class="box" href="https://commons.wikimedia.org/wiki/File:Orange_County_California_Incorporated_and_Unincorporated_areas_Costa_Mesa_Highlighted.svg">https://commons.wikimedia.org/wiki/File:Orange_County_California_Incorporated_and_Unincorporated_areas_Costa_Mesa_Highlighted.svg</a>
-  </li>
-<li>
-  <a target="_blank" class="box" href="https://commons.wikimedia.org/wiki/File:Downtown_Disney_2014_Jamba_Juice_Sephora.JPG">https://commons.wikimedia.org/wiki/File:Downtown_Disney_2014_Jamba_Juice_Sephora.JPG</a>
-</li>
-  <li>
-    <a target="_blank" class="box" href="https://www.flickr.com/photos/kenlund/20967886353">https://www.flickr.com/photos/kenlund/20967886353</a>
-  </li>
-</ol>
-</ol>
 <address class="box">
-Last Updated: October 28, 2025
+Last Updated: November 12, 2025
 <br>Copyright &copy; 2025
 </address>
 </footer>
 </body>
 </html>
+
 
 
 
