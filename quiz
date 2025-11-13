@@ -25,22 +25,7 @@
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/orangecounty">Orange County</a>
 </button>
 <div class="dropdown-content">
-<div class="dropdown">
-<button class="dropbtn">
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
-</button>
-<div class="dropdown-content">
-
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/despicablememinionmayhem">Despicable Me Minion Mayhem</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/harrypotterandtheforbiddenjourney">Harry Potter and the Forbidden Journey™
-</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/jurassicworldtheride">Jurassic World – The Ride</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/revengeofthemummytheride">Revenge of the Mummy – The Ride</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/theworldfamousstudiotour">The World-Famous Studio Tour</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/transformerstheride3d">TRANSFORMERS™: The Ride-3D</a>
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/waterworld">WaterWorld</a>
-</div>
-</div>
 </div>
 </div>
 <div class="dropdown">
@@ -208,15 +193,16 @@ June 13</label>
 <p>Your grade will remain blank if you submit when not all the questions were answered.</p>
 </div>
 <script src="quiz.js"></script>
-One man who worked with me in Milpitas Extension did the finishing touches in the Java code for the quiz.
+<p>One man who worked with me in Milpitas Extension did the finishing touches in the Java code for the quiz.</p>
 <footer>
-<br><address class="box">
-Last Updated: October 28, 2025
+<address class="box">
+Last Updated: November 12, 2025
 <br>Copyright &copy; 2025
 </address>
 </footer>
 </body>
 </html>
+
 
 
 
