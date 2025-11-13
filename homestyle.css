@@ -4,7 +4,7 @@ a {
 background: lime;
 color: chocolate; }
 
-h1 { color: gold; font-family: Verdana;}
+h1 { color: gold; font-family: Courier New;}
 h1:first-letter {
 font-size: 200%;
 }
@@ -15,25 +15,10 @@ ul li em {color: silver;}
 body {
 width: 60%
 
-font-family: Comic Sans MS;
-
-background-image: url("https://www.publicdomainpictures.net/pictures/40000/velka/summer-day-1362416318qCN.jpg");
-;
+font-family: Lucida Sans;
 background-repeat:no-repeat;
 background-size:cover;
 color: gold;
-}
-li {
-list-style-type: none;
-display: block;
-border: solid thin gold;
-padding: 4px;
-background-color: maroon;
-margin: 3px;
-width: 65%;
-}
-li a {
-  color: gold;
 }
 .dropbtn {
 background-color: peachpuff;
@@ -75,6 +60,7 @@ legend::selection {
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
