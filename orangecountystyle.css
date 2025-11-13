@@ -9,11 +9,9 @@ h1 { color: #003400; font-family: Courier New;}
 h2 { color: #610000; font-family: Courier New;}
 .box { background-color: springgreen;}
 .minibox { background-color: #004200;}
-a:hover { background: lime;}
-a:visited {color: darkred;}
-a:link {color: #7A2100;}
 body {
 background-color: orange;
+font-family: lucida sans;
 color: #322706;
 }
 li {
@@ -54,6 +52,7 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
 
 
 
