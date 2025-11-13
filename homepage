@@ -27,11 +27,6 @@ rel="icon" type="image/x-icon" />
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/orangecounty">Orange County</a>
 </button>
 <div class="dropdown-content">
-<div class="dropdown">
-<button class="dropbtn">
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
-</button>
-<div class="dropdown-content">
 <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
 </div>
 </div>
@@ -74,6 +69,7 @@ Last Updated: November 12, 2025
 </footer>
 </body>
 </html>
+
 
 
 
