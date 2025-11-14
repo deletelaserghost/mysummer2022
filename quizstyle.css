@@ -58,7 +58,7 @@ fieldset {
   border: none;
 }
 input {
-margin-left: 5px;
+margin-left: 10px;
 }
 .button {
 background-color: #ffcccc;
@@ -70,5 +70,6 @@ font-size: 20px;
 -->
 
 </style>
+
 
 
