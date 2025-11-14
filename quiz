@@ -48,160 +48,112 @@
   <form action="results.html" method="post" onsubmit="return false">
   <fieldset>
     <h2>What is my least favorite Universal Studios Hollywood ride?</h2>
-    <label for="minion">
-    <input type="radio" name="leastfavoriteride" value="A" />
-Despicable Me Minion Mayhem</label><br>
-    <label for="harrypotter">
-      <input type="radio" name="leastfavoriteride" value="B" />
-Harry Potter and the Forbidden Journey™
-    </label><br>
-    <label for="jurassic">
-    <input type="radio" name="leastfavoriteride" value="C" />
-Jurassic World – The Ride</label><br>
-    <label for="hippogriff">
-    <input type="radio" name="leastfavoriteride" value="D" />
-Flight of the Hippogriff™</label>
+    <label>
+    <input type="radio" name="question0" value="A"/>Despicable Me Minion Mayhem</label><br>
+    <label>
+      <input type="radio" name="question0" value="B"/>Harry Potter and the Forbidden Journey™</label><br>
+    <label>
+    <input type="radio" name="question0" value="C"/>Jurassic World – The Ride</label><br>
+    <label>
+    <input type="radio" name="question0" value="D"/>Flight of the Hippogriff™</label>
     <h2>What was my fear in Washington DC?</h2>
-    <label for="hurricane">
-    <input type="radio" name="dcfear" value="A"/>
-Hurricane</label><br>
-    <label for="hotweather">
-    <input type="radio" name="dcfear" value="B"/>
-Extremely Hot Weather</label><br>
-    <label for="lightning">
-    <input type="radio" name="dcfear" value="C"/>
-Lightning</label><br>
-    <label for="rain">
-    <input type="radio" name="dcfear" value="D"/>
-Heavy Rain</label>
-
+    <label>
+    <input type="radio" name="question1" value="A"/>Hurricane</label><br>
+    <label>
+    <input type="radio" name="question1" value="B"/>Extremely Hot Weather</label><br>
+    <label>
+    <input type="radio" name="question1" value="C"/>Lightning</label><br>
+    <label>
+    <input type="radio" name="question1" value="D"/>Heavy Rain</label>
     <h2>When was my last day of school?</h2>
-    <label for="june4">
-    <input type="radio" name="lastdayschool" value="A"/>
-June 4</label><br>
-    <label for="june10">
-    <input type="radio" name="lastdayschool" value="B"/>
-June 10</label><br>
-    <label for="june2">
-    <input type="radio" name="lastdayschool" value="C"/>
-June 2</label><br>
-    <label for="june13">
-    <input type="radio" name="lastdayschool" value="D"/>
-June 13</label>
+    <label>
+    <input type="radio" name="question2" value="A"/>June 4</label><br>
+    <label>
+    <input type="radio" name="question2" value="B"/>June 10</label><br>
+    <label>
+    <input type="radio" name="question2" value="C"/>June 2</label><br>
+    <label>
+    <input type="radio" name="question2" value="D"/>June 13</label>
     <h2>When did I go to Universal Studios?</h2>
-    <label for="june10again">
-    <input type="radio" name="ushdate" value="A"/>
-June 10</label><br>
-    <label for="june11">
-    <input type="radio" name="ushdate" value="B"/>
-June 11</label><br>
-    <label for="june12">
-    <input type="radio" name="ushdate" value="C"/>
-June 12</label><br>
-    <label for="june13again">
-    <input type="radio" name="ushdate" value="D"/>
-June 13</label>
-
+    <label>
+    <input type="radio" name="question3" value="A"/>June 10</label><br>
+    <label>
+    <input type="radio" name="question3" value="B"/>June 11</label><br>
+    <label>
+    <input type="radio" name="question3" value="C"/>June 12</label><br>
+    <label>
+    <input type="radio" name="question3" value="D"/>June 13</label>
     <h2>Whom did I go to Washington DC with?</h2>
-    <label for="school">
-    <input type="radio" name="dcpeople" value="A"/>
-People From My School</label><br>
-    <label for="parents">
-    <input type="radio" name="dcpeople" value="B"/>
-Parents</label><br>
-    <label for="cousins">
-    <input type="radio" name="dcpeople" value="C"/>
-Cousins</label><br>
-    <label for="stranger">
-    <input type="radio" name="dcpeople" value="D"/>
-A Stranger</label>
-
+    <label>
+    <input type="radio" name="question4" value="A"/>People From My School</label><br>
+    <label>
+    <input type="radio" name="question4" value="B"/>Parents</label><br>
+    <label>
+    <input type="radio" name="question4" value="C"/>Cousins</label><br>
+    <label>
+    <input type="radio" name="question4" value="D"/>A Stranger</label>
     <h2>How many hotels did I stay in during my Washington DC trip?</h2>
-    <label for="onehotel">
-    <input type="radio" name="numberofhotels" value="A"/>
-1</label><br>
-    <label for="twohotels">
-    <input type="radio" name="numberofhotels" value="B"/>
-2</label><br>
-    <label for="threehotels">
-    <input type="radio" name="numberofhotels" value="C"/>
-3</label><br>
-    <label for="fourhotels">
-    <input type="radio" name="numberofhotels" value="D"/>
-4</label>
-
+    <label>
+    <input type="radio" name="question5" value="A"/>1</label><br>
+    <label>
+    <input type="radio" name="question5" value="B"/>2</label><br>
+    <label>
+    <input type="radio" name="question5" value="C"/>3</label><br>
+    <label>
+    <input type="radio" name="question5" value="D"/>4</label>
     <h2>What was my last activity in Universal Studios?</h2>
-    <label for="panda">
-    <input type="radio" name="lastactivity" value="A"/>
-Panda Express</label><br>
-    <label for="transformers">
-    <input type="radio" name="lastactivity" value="B"/>
-TRANSFORMERS™: The Ride-3D</label><br>
-    <label for="waterworld">
-    <input type="radio" name="lastactivity" value="C"/>
-WaterWorld</label><br>
-    <label for="despicableme">
-    <input type="radio" name="lastactivity" value="D"/>
-Despicable Me Minion Mayhem</label>
-
+    <label>
+    <input type="radio" name="question6" value="A"/>Panda Express</label><br>
+    <label>
+    <input type="radio" name="question6" value="B"/>TRANSFORMERS™: The Ride-3D</label><br>
+    <label>
+    <input type="radio" name="question6" value="C"/>WaterWorld</label><br>
+    <label>
+    <input type="radio" name="question6" value="D"/>Despicable Me Minion Mayhem</label>
     <h2>What weekday did I not attend Milpitas Extension?</h2>
-    <label for="tuesday">
-    <input type="radio" name="daynoattend" value="A"/>
-Tuesday</label><br>
-    <label for="wednesday">
-    <input type="radio" name="daynoattend" value="B"/>
-Wednesday</label><br>
-    <label for="thursday">
-    <input type="radio" name="daynoattend" value="C"/>
-Thursday</label><br>
-    <label for="friday">
-    <input type="radio" name="daynoattend" value="D"/>
-Friday</label>
-
+    <label>
+    <input type="radio" name="question7" value="A"/>Tuesday</label><br>
+    <label>
+    <input type="radio" name="question7" value="B"/>Wednesday</label><br>
+    <label>
+    <input type="radio" name="question7" value="C"/>Thursday</label><br>
+    <label>
+    <input type="radio" name="question7" value="D"/>Friday</label>
     <h2>What did I make this website for?</h2>
-    <label for="washington">
-    <input type="radio" name="websitefor" value="A"/>
-George Washington</label><br>
-    <label for="orangecounty">
-    <input type="radio" name="websitefor" value="B"/>
-Orange County</label><br>
-    <label for="milpitasextension">
-    <input type="radio" name="websitefor" value="C"/>
-Milpitas Extension</label><br>
-    <label for="harry">
-    <input type="radio" name="websitefor" value="D"/>
-Harry Potter</label>
-
+    <label>
+    <input type="radio" name="question8" value="A"/>George Washington</label><br>
+    <label>
+    <input type="radio" name="question8" value="B"/>Orange County</label><br>
+    <label>
+    <input type="radio" name="question8" value="C"/>Milpitas Extension</label><br>
+    <label>
+    <input type="radio" name="question8" value="D"/>Harry Potter</label>
     <h2>Should you buy ice cream from the store that I bought ice cream from in Orange County?</h2>
-    <label for="firstyes">
-    <input type="radio" name="buyicecream" value="A"/>
-Yes because you bought Ice Cream from H&auml;agen-Dazs</label><br>
-    <label for="secondyes">
-    <input type="radio" name="buyicecream" value="B"/>
-Yes because the store has flavor names</label><br>
-    <label for="firstno">
-    <input type="radio" name="buyicecream" value="C"/>
-No because the Ice Cream tastes bad</label><br>
-    <label for="secondno">
-    <input type="radio" name="buyicecream" value="D"/>
-No because the store has no flavor names</label>
-    <p><button type="button" onclick="calcGrade()" value="Submit">Finish Quiz</button>
+    <label>
+    <input type="radio" name="question9" value="A"/>Yes because you bought Ice Cream from H&auml;agen-Dazs</label><br>
+    <label>
+    <input type="radio" name="question9" value="B"/>Yes because the store has flavor names</label><br>
+    <label>
+    <input type="radio" name="question9" value="C"/>No because the Ice Cream tastes bad</label><br>
+    <label>
+    <input type="radio" name="question9" value="D"/>No because the store has no flavor names</label>
+    <p><button class="button" onclick="returnGrade()">Finish Quiz</button>
     </p>
   </fieldset>
 </form>
-<p>Your grade is: <span id="grade">__</span> out of 100</p>
-<p>Your grade will remain blank if you submit when not all the questions were answered.</p>
+<p>Your grade is: <span id="grade">__</span> out of 10</p>
 </div>
 <script src="quiz.js"></script>
-<p>One man who worked with me in Milpitas Extension did the finishing touches in the Java code for the quiz.</p>
+<p>One man who worked with me in Milpitas Extension helped me a little in the code for the quiz.</p>
 <footer>
 <address class="box">
-Last Updated: November 12, 2025
+Last Updated: November 13, 2025
 <br>Copyright &copy; 2025
 </address>
 </footer>
 </body>
 </html>
+
 
 
 
