@@ -53,23 +53,15 @@ legend::selection {
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 fieldset {
   border: none;
+  margin-left: 5px;
+}
+.button {
+background-color: #ffcccc;
+color: darkslategray;
+font-family: Lucida Sans;
+border-radius: 10px;
+font-size: 20px;
 }
 -->
 
 </style>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
