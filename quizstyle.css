@@ -53,7 +53,9 @@ legend::selection {
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 fieldset {
   border: none;
-  margin-left: 5px;
+}
+input {
+margin-left: 5px;
 }
 .button {
 background-color: #ffcccc;
@@ -65,3 +67,4 @@ font-size: 20px;
 -->
 
 </style>
+
