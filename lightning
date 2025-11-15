@@ -56,11 +56,17 @@
     <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/marioparty">Mario Party</a>
   </button>
 </div>
-
     <h1>Lightning</h1>
   </header>
     <main>
-
+<video width="640" height="360" controls>
+<source src="lightningone.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<video width="640" height="360" controls>
+<source src="lightningtwo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 <p>If you don't like lightning, you should be very careful when you travel to Washington DC. The chaperones took so long to take their students to the bus, so I was really scared for my life.
   On top of that, they also took a picture of all the students while we were waiting.
   They took so insanely long with the pictures because I think they took more than one picture.
@@ -77,6 +83,7 @@ Last Updated: November 15, 2025
 </footer>
 </body>
 </html>
+
 
 
 
