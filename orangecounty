@@ -12,36 +12,36 @@ content="This website is made by a student from Milpitas Extension. It is about 
 <header>
 <div class="dropdown">
 <button class="dropbtn">
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/homepage">Home</a>
+<a href="homepage">Home</a>
 </button>
 </div>
 <div class="dropdown">
 <button class="dropbtn">
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/washingtondc">Washington DC</a>
+<a href="washingtondc">Washington DC</a>
 </button>
 </div>
 <div class="dropdown">
 <button class="dropbtn">
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/orangecounty">Orange County</a>
+<a href="orangecounty">Orange County</a>
 </button>
 <div class="dropdown-content">
-<a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a>
+<a href="universalstudios">Universal Studios</a>
 </div>
 </div>
 
 <div class="dropdown">
   <button class="dropbtn">
-    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/milpitasextensionandmore">Milpitas Extension and More</a>
+    <a href="milpitasextensionandmore">Milpitas Extension and More</a>
   </button>
 </div>
 <div class="dropdown">
   <button class="dropbtn">
-    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/quiz">Quiz</a>
+    <a href="quiz">Quiz</a>
   </button>
 </div>
 <div class="dropdown">
   <button class="dropbtn">
-    <a href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/marioparty">Mario Party</a>
+    <a href="https://www.mariopartyandothergames.com">Mario Party</a>
   </button>
 </div>
 
@@ -64,7 +64,7 @@ We all went to a lot of places at Orange County and unfortunately stayed up late
   <li>June 11</li>
   <ul>
     <li>Order from Vietnamese bakery</li>
-    <li><a class="box" href="https://htmlpreview.github.io/?https://github.com/deletelaserghost/mysummer2022/blob/main/universalstudios">Universal Studios</a> with our friend's family</li>
+    <li><a class="box" href="universalstudios">Universal Studios</a> with our friend's family</li>
     <li>Dinner at Vietnamese restaurant (we stayed up past midnight)</li>
   </ul>
   <li>June 12</li>
@@ -94,6 +94,7 @@ Last Updated: November 12, 2025
 </footer>
 </body>
 </html>
+
 
 
 
