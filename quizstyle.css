@@ -54,6 +54,9 @@ legend::selection {
 .dropdown-content a:hover {background-color: gainsboro;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: cornsilk;}
+table {
+border: solid maroon;
+}
 fieldset {
   border: none;
 }
@@ -68,8 +71,4 @@ border-radius: 10px;
 font-size: 20px;
 }
 -->
-
 </style>
-
-
-
