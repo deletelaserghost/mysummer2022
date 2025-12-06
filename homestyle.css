@@ -3,7 +3,6 @@
 a {
 background: lime;
 color: chocolate; }
-
 h1 { color: gold; font-family: Courier New; text-align: center;}
 h1:first-letter {
 font-size: 200%;
@@ -59,3 +58,4 @@ legend::selection {
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
+
