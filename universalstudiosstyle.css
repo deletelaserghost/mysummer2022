@@ -1,14 +1,8 @@
-/*
- comment
-*/
-
 <style type="text/css">
 <!--
 a {
 background: lime;
 color: chocolate; }
-address { font-size: small;}
-
 h1 { color: gold; font-family: Courier New;
 opacity: 0.9;}
 h1:first-letter {
@@ -28,7 +22,6 @@ body a {
 color: white;
 }
 li {
-
 border: solid thin gold;
 display: block;
 background-color: #733B21;
@@ -42,7 +35,6 @@ color: white;
 p::selection { background: #523500;}
 .dropbtn {
 background-color: peachpuff;
-color: darkred;
 padding: 1px;
 font-size: 30px;
 border: solid gold;
@@ -74,19 +66,3 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
