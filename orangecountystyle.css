@@ -4,7 +4,6 @@ a {
 background: lime;
 color: chocolate;
 }
-
 h1 { color: #003400; font-family: Courier New;}
 h2 { color: #610000; font-family: Courier New;}
 .box { background-color: springgreen;}
@@ -55,10 +54,3 @@ display: block;
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
-
-
-
-
-
-
-
