@@ -4,11 +4,11 @@ a {
 background: lime;
 color: chocolate; }
 
-h1 { color: gold; font-family: Courier New;}
+h1 { color: gold; font-family: Courier New; text-align: center;}
 h1:first-letter {
 font-size: 200%;
 }
-h2 { color: #A2D142; font-family: Courier New;}
+h2 { color: #A2D142; font-family: Courier New; text-align: center;}
 ul li em {color: silver;}
 .box { background-color: #333333;}
 .imagebox { background-color: #ede4e4;}
@@ -16,6 +16,7 @@ body {
 font-family: Lucida Sans;
 background-repeat:no-repeat;
 background-size:cover;
+background-color: lightskyblue;
 color: gold;
 }
 .dropbtn {
@@ -58,15 +59,3 @@ legend::selection {
 .dropdown:hover .dropbtn {background-color: cornsilk;}
 -->
 </style>
-
-
-
-
-
-
-
-
-
-
-
-
